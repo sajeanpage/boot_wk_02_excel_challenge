@@ -2,6 +2,6 @@
 Bootcamp week 2
 
 This repository contains my submissions for Module 1, Excel challenge.  
-Thanks for you time and consideration.
+Thanks for your time and consideration.
 
 -Sarje
