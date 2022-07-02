@@ -5,3 +5,4 @@
 - [CrowdfundingBook_SP.xlsx](CrowdfundingBook_SP.xlsx)
 - [Excel_Challenge_SP.docx](Excel_Challenge_SP.docx)
 
+![crowd.gif](crowd.gif)
