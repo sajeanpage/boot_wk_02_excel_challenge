@@ -1,7 +1,7 @@
-# boot_wk_02_excel_challenge
-Bootcamp week 2
+# Excel Challenge
 
-This repository contains my submissions for Module 1, Excel challenge.  
-Thanks for your time and consideration.
+### Modified and analyzed the sample-project data to uncover market trends.
 
--Sarje
+- [CrowdfundingBook_SP.xlsx](CrowdfundingBook_SP.xlsx)
+- [Excel_Challenge_SP.docx](Excel_Challenge_SP.docx)
+
